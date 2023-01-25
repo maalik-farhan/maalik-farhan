@@ -26,6 +26,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maalik-farhan&show_icons=true&locale=en&layout=compact" alt="maalik-farhan" /></p> -->
 
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maalik-farhan&show_icons=true&locale=en" alt="maalik-farhan" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maalik-farhan&" alt="maalik-farhan" />
+  </p>
