@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Malik Farhan</h1>
 <h3 align="center">A passionate python developer and expertise in Django web framework. Also working on NLP technologies and data scraper using Selenium and Beautiful soap. I am also a MERN Stack developer and good expertise in building reliable and fast websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maalik-farhan&label=Profile%20views&color=0e75b6&style=flat" alt="maalik-farhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maalik-farhan" alt="maalik-farhan" /></a> </p>
-
-
 
 - 🔭 I’m currently working on [Shopilam and Python Bots](https://www.shopilam.com/)
 
